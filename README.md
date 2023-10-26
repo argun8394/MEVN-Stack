@@ -1,7 +1,7 @@
 # MEVN Stack Project
 * Vue 3
 * Node.js
-*Express.js
+* Express.js
 * Quasar
 * Vuex
 * Auth
